@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Michael Scott</h1>
-<h3 align="center">A passionate software engineer from Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 
+<h3 align="center">
+  I am a&nbsp;
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1300&center=true&vCenter=true&width=250&lines=inquisitive;passionate;tenatious;analytical;coffee-fuelled;slightly+obsessive;curious+to+a+fault,;chaos-tolerant"
+    style="vertical-align: -21px;"
+  />
+  &nbsp;
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1300&width=260&lines=Software+Engineer;Full+Stack+Developer;AI+Platform+Engineer;Hobbyist;Home+Lab+Enthusiast"
+    style="vertical-align: -28px;"
+  />
+  &nbsp;from Glasgow 🏴
+</h3>
 
 ## 🚀 About Me
 
