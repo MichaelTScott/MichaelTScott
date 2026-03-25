@@ -141,6 +141,7 @@ My currently home lab consists of:
 <h3>DevOps/SRE</h3>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" /> </a> 
 <a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="prometheus" /> </a> 
+<a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" alt="OTEL" /> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" /> </a> 
 
 <h3>Testing</h3>
