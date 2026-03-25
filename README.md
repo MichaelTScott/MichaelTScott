@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Scott</h1>
 
 <h3 align="center">
-  I am a
+  a
 </h3>
 <p align="center">
   <img 
