@@ -7,7 +7,7 @@
   <img 
   align="center"
   justify="center"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1300&center=true&vCenter=true&random=true&width=250&lines=inquisitive;passionate;tenatious;analytical;coffee-fuelled;slightly+obsessive;curious+to+a+fault,;chaos-tolerant;occasionally+overthinking"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1300&center=true&vCenter=true&random=true&width=310&lines=inquisitive;passionate;tenatious;analytical;coffee-fuelled;slightly+obsessive;curious+to+a+fault;chaos-tolerant;occasionally+overthinking"
   />
   <img 
     align="center"
