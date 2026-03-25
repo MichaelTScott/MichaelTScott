@@ -7,12 +7,12 @@
   <img 
   align="center"
   justify="center"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1300&center=true&vCenter=true&width=250&lines=inquisitive;passionate;tenatious;analytical;coffee-fuelled;slightly+obsessive;curious+to+a+fault,;chaos-tolerant"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1300&center=true&vCenter=true&random=true&width=250&lines=inquisitive;passionate;tenatious;analytical;coffee-fuelled;slightly+obsessive;curious+to+a+fault,;chaos-tolerant;occasionally+overthinking"
   />
   <img 
     align="center"
     justify="center"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1300&width=260&center=true&vCenter=true&lines=Software+Engineer;Full+Stack+Developer;AI+Platform+Engineer;Hobbyist;Home+Lab+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1300&width=260&center=true&vCenter=true&lines=Software+Engineer;Full+Stack+Developer;AI+Platform+Engineer;Hobbyist;Home+Lab+Enthusiast;Tinkerer"
   />
 </p>
 <h3 align="center">
@@ -21,7 +21,7 @@ from Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ## 🚀 About Me
 
-⚡ Fun fact **I'm a 2nd Dan Black Belt 🥋**
+⚡ Fun fact **I'm also a 2nd Dan Black Belt 🥋**
 
 I’m a software engineer with a strong full-stack background, currently focused on building scalable AI platforms and distributed systems.
 
