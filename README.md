@@ -84,7 +84,7 @@ My currently home lab consists of:
 
 
 <!-- ==== Languages / Frameworks  -->
-<h2 align="left">Professional experience:</h2>
+<h2 align="left">👨‍💻 Professional experience:</h2>
 <!-- icons: techicons.dev/icons/ -->
 <h3>Backend</h3>
 
@@ -93,6 +93,8 @@ My currently home lab consists of:
 <span style="border-left: 3px solid grey; font-size: 37px; align: center; justify: center; padding: 5px; margin: 5px"></span>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="Fast API" /> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" /> </a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Apache Airflow" /> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" alt="Streamlit" /> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" /> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img width=40 height=40 src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" /> </a>
 </p>
