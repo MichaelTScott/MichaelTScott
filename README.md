@@ -16,7 +16,7 @@
   />
 </p>
 <h3 align="center">
-from Glasgow 🏴
+from Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 </h3>
 
 ## 🚀 About Me
